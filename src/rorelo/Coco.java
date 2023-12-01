@@ -6,7 +6,7 @@ public class Coco {
 		// TODO Auto-generated method stub
 		System.out.println("Rocío");
 		System.out.println("Coco");
-		System.out.println("chanel");
+		System.out.println("Chanel");
 	}
 
 }
